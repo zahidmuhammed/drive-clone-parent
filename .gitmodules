@@ -1,0 +1,6 @@
+[submodule "drive-client"]
+	path = drive-client
+	url = https://github.com/zahidmuhammed/drive-clone-client.git
+[submodule "drive-server"]
+	path = drive-server
+	url = https://github.com/zahidmuhammed/drive-clone-server.git
